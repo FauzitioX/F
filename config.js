@@ -20,8 +20,8 @@ global.APIKeys = {
 // Other
 global.owner = ['6285791677204']
 global.premium = ['6285791677204']
-global.namaowner = ['♲︎︎︎ FαυȥყRêålz]
-global.namabot = ['FαυȥყBOTZ - MD ☕︎']
+global.namaowner = ['FαυȥყXD']
+global.namabot = ['FαυȥყBOTZ - MD']
 global.packname = 'Milik'
 global.author = 'Fαυȥყ
 global.sessionName = 'hisoka'
