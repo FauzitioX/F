@@ -20,7 +20,7 @@ global.APIKeys = {
 // Other
 global.owner = ['6285791677204']
 global.premium = ['6285791677204']
-global.namaowner = ['♲︎︎︎ FαυȥყRêålz`𐁘]
+global.namaowner = ['♲︎︎︎ FαυȥყRêålz]
 global.namabot = ['FαυȥყBOTZ - MD ☕︎']
 global.packname = 'Milik'
 global.author = 'Fαυȥყ
